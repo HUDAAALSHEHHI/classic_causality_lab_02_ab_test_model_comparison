@@ -1,7 +1,7 @@
 🧠 Comprehensive Explanation
 
 This experiment demonstrates the process of designing a high-fidelity A/B test to compare the performance of two machine learning models within identical conditions. The approach aims to determine whether the observed improvement in performance is statistically significant or merely due to random variation.
-The experiment uses two classification models Logistic Regression and Random Forest trained on the same dataset. By splitting the data equally and applying identical preprocessing steps, the experiment isolates the impact of model architecture alone. The use of t-tests ensures that any difference in accuracy is validated through statistical inference rather than visual comparison.
+The experiment uses two classification models (Logistic Regression and Random Forest) trained on the same dataset. By splitting the data equally and applying identical preprocessing steps, the experiment isolates the impact of model architecture alone. The use of t-tests ensures that any difference in accuracy is validated through statistical inference rather than visual comparison.
 
 ✏️ Objective
 
